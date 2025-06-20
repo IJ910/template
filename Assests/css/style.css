@@ -1,0 +1,196 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.navbar {
+    background-color: black;
+}
+
+.login a.log {
+    background-color: #ff5200;
+    color: #fff;
+    border: 1px solid #ff5200;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.login a.sign {
+    border: 1px solid #fff;
+    color: #fff;
+    background-color: transparent;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+.navbar-collapse .navbar-nav .nav-item .nav-link {
+    color: #fff;
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+.login a {
+    margin-left: 20px;
+}
+
+.slider-section .carousel-inner .carousel-item img {
+    height: 85vh;
+    object-fit: cover;
+}
+
+.heading h2 {
+    text-align: center;
+    padding-bottom: 60px;
+    color: #ff5200;
+}
+
+.service-section {
+    padding-top: 80px;
+}
+
+.box {
+    border: 1px solid gray;
+    padding: 40px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.box i {
+    font-size: 40px;
+    color: #ff5200;
+    padding-bottom: 30px;
+    display: block;
+}
+
+.box h2 {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.box p {
+    font-size: 15px;
+    color: #8b8e94;
+    line-height: 30px;
+}
+
+.service {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 35px;
+}
+
+.service a {
+    background-color: #ff5200;
+    color: #fff;
+    border: 1px solid #ff5200;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    border-radius: 100px;
+}
+
+.work-section .owl-carousel .item img {
+    height: 400px;
+    object-fit: cover;
+}
+
+.company {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.company .company-section h1 {
+    text-align: center;
+    text-decoration: none;
+    margin-top: 40px;
+    font-size: 30px;
+    color: #ff5200;
+}
+
+.company .company-section p {
+    text-align: center;
+    font-size: 16px;
+    margin-top: 10px;
+    color: gray;
+}
+
+.row img {
+    height: auto;
+    object-fit: cover;
+    padding: 40px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-left: 25px;
+}
+
+.service2 {
+    background-color: #f0f0f0;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 40px 0;
+}
+
+.box2 i {
+    font-size: 40px;
+    color: #ff5200;
+    padding-bottom: 30px;
+}
+
+.box2 h2 {
+    font-size: 18px;
+    font-weight: 700;
+    color: black;
+}
+
+.box2 p {
+    line-height: 25px;
+    font-size: 16px;
+    color: gray;
+}
+
+.footer-section{
+    margin-top: 50px;
+    background-color: black;
+}
+
+.footer-logo img {
+    display: block; 
+    margin-top: -35px;
+}
+
+.footer-logo p{
+color: white;
+margin-top: -40px;
+text-align: justify;
+}
+
+.footer-link h2 {
+    color: white;
+    display: flex;
+}
+
+.footer-link li {
+    color: white;
+    line-height: 30px;
+}
+.footer-links h2{
+    color: white;
+}
+.footer-links li{
+    color: white;
+}
+
+.Social-links h2{
+    color: white;
+}
+
+.Social-links li {
+    color: white;
+}
+
+.Social-links i {
+    color: white;
+  
+}
+
